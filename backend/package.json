@@ -12,5 +12,8 @@
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.1",
     "sqlite3": "^5.0.2"
+  },
+  "engines": {
+    "node": "18.1"
   }
 }
